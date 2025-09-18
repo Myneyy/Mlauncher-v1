@@ -25,10 +25,13 @@ The goal of MLauncher is to allow everyone to create their own custom launcher, 
 
 ## Getting Started
 1. Download the latest version of MLauncher.
-2. Open the Mlauncher
-3. Stay tuned for updates, where you'll be able to upload and manage your own projects.
+2. Open the Mlauncher.sln
+3. change debug to release and x64 to x86
+4. Stay tuned for updates, where you'll be able to upload and manage your own projects.
 
 ---
 
+## Leave a ⭐
+
 ## Contact / Feedback
-Suggestions, bug reports, or ideas are welcome! The goal is to make MLauncher a versatile platform for everyone.
+Suggestions, bug reports, or ideas are welcome! 
