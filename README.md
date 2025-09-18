@@ -10,9 +10,9 @@ The goal of MLauncher is to allow everyone to create their own custom launcher, 
 
 ## Features
 - Showcase and run my personal projects
-- Easy Login/Register with HWID
+- Easy login and registration using HWID
 - Simple and intuitive interface for managing multiple projects
-- customizable
+- Fully customizable interface
 
 ---
 
@@ -25,13 +25,16 @@ The goal of MLauncher is to allow everyone to create their own custom launcher, 
 
 ## Getting Started
 1. Download the latest version of MLauncher.
-2. Open the Mlauncher.sln
-3. change debug to release and x64 to x86
+2. Open `MLauncher.sln`.
+3. Switch the build configuration to Release and the platform to x86 if needed.
 4. Stay tuned for updates, where you'll be able to upload and manage your own projects.
 
 ---
 
 ## Leave a ⭐
+If you like this repository, please leave a star!
+
+---
 
 ## Contact / Feedback
-Suggestions, bug reports, or ideas are welcome! 
+Suggestions, bug reports, or ideas are welcome!
