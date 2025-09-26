@@ -1,6 +1,8 @@
 # MLauncher – The Personal Project Launcher
 ---
 
+![](https://i.imgur.com/qoe42Gx.png)
+
 ## About
 MLauncher is a personal launcher I created to showcase my projects in a creative and organized way. This first version is more of a sneak peek of what's coming.
 
